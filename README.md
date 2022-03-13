@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Kulbethrand/social-proof-section-master
 - Live Site URL: https://social-proof-section-master-kulbethrand.vercel.app/
 
 ## My process
@@ -33,7 +33,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
